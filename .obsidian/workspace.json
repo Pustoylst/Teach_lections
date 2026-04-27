@@ -23,11 +23,13 @@
             "id": "6397265e6457334a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Физика лекции/№1 Проводники в электрическом поле.md"
+                "file": "Физика лекции/№1 Проводники в электрическом поле.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "№1 Проводники в электрическом поле"
             }
           },
@@ -39,8 +41,8 @@
               "state": {
                 "file": "Физика лекции/№1 Проводники в электрическом поле.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "№1 Проводники в электрическом поле"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -51,12 +53,11 @@
               "state": {
                 "file": "Мат анализ 2 сем/лекции/№1 Числовые ряды.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "№1 Числовые ряды"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,19 +220,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6397265e6457334a",
+  "active": "93dc68bab6f5b711",
   "lastOpenFiles": [
     "Мат анализ 2 сем/практика/№2.md",
-    "README.md",
-    "ABAE496D-D42B-4CFB-A0A8-50FF5746B5D2_1_105_c.jpeg",
-    "Физика лекции/№1 Проводники в электрическом поле.md",
     "Мат анализ 2 сем/практика/№1.md",
+    "Без названия 1.base",
+    "README.md",
+    "черновие.md",
+    "Без названия.base",
+    "Физика лекции/№1 Проводники в электрическом поле.md",
+    "ABAE496D-D42B-4CFB-A0A8-50FF5746B5D2_1_105_c.jpeg",
     "Алгем практика/№1.md",
     "Алгем лекции/№1.md",
     "Мат анализ 2 сем/лекции/№1 Числовые ряды.md",
     "Мат анализ 2 сем/лекции",
     "AMS Collage.jpg",
-    "черновие.md",
     "Алгем практика",
     "Алгем лекции",
     "Без названия.md",
@@ -241,7 +244,6 @@
     "IMG_0355.HEIC",
     "Excalidraw/Drawing 2026-04-17 19.04.55.excalidraw.md",
     "Мат анализ 2 сем",
-    "Без названия.base",
     "Без названия.canvas",
     "Excalidraw/Drawing 2026-04-17 19.33.59.excalidraw.md",
     "Excalidraw/Drawing 2026-04-17 19.22.07.excalidraw.md",
@@ -251,7 +253,6 @@
     "рисовалка/Без названия.md",
     "рисовалка/Без названия.canvas",
     "Excalidraw/Drawing 2026-03-14 18.30.28.excalidraw.md",
-    "рисовалка",
     "Excalidraw/Drawing 2026-04-14 10.19.57.excalidraw.md",
     "Без названия 1.md",
     "Без названия 1.canvas",
