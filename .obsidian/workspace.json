@@ -105,6 +105,18 @@
             }
           },
           {
+            "id": "9f599db1cfc93aee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Алгем практика/№3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "№3"
+            }
+          },
+          {
             "id": "566989b911f3fe82",
             "type": "leaf",
             "state": {
@@ -129,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -292,8 +304,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "15d7c31c261aad3e",
+  "active": "9f599db1cfc93aee",
   "lastOpenFiles": [
+    "Алгем практика/№3.md",
     "Физика лекции/№4.md",
     "Алгем практика/№1.md",
     "Алгем практика/№2.md",
@@ -334,7 +347,6 @@
     "Excalidraw/Drawing 2026-04-14 10.37.33.excalidraw.md",
     "рисовалка/Без названия.md",
     "рисовалка/Без названия.canvas",
-    "Excalidraw/Drawing 2026-03-14 18.30.28.excalidraw.md",
     "Без названия 1.canvas"
   ]
 }
