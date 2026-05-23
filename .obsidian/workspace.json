@@ -153,6 +153,18 @@
             }
           },
           {
+            "id": "0e65cf71cbf7a18c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Мат анализ 2 сем/лекции/№2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "№2"
+            }
+          },
+          {
             "id": "566989b911f3fe82",
             "type": "leaf",
             "state": {
@@ -177,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -340,9 +352,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d75dd71615493355",
+  "active": "0c0dde1ccfe2a074",
   "lastOpenFiles": [
     "Алгем практика/Подготовка к кр.md",
+    "Мат анализ 2 сем/лекции/№2.md",
     "Алгем практика/подготовка № 2.md",
     "Алгем практика/Тест по дифурам.md",
     "Алгем практика/№1.md",
