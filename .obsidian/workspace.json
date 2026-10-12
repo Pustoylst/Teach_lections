@@ -4,216 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba966048bd6304d",
+        "id": "400080f523bb3c71",
         "type": "tabs",
         "children": [
           {
-            "id": "93dc68bab6f5b711",
+            "id": "4b6e3fcd2f242fed",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Мат анализ 2 сем/практика/№1.md"
+                "file": "черновие.md"
               },
               "icon": "excalidraw-icon",
-              "title": "№1"
-            }
-          },
-          {
-            "id": "41958cd544d2407c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/Тест по дифурам.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Тест по дифурам"
-            }
-          },
-          {
-            "id": "6b53402b6da477ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Физика лекции/№3 Закон Био-Савара-Лапласа.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№3 Закон Био-Савара-Лапласа"
-            }
-          },
-          {
-            "id": "0629d3633df1c1b9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем лекции/№2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№2"
-            }
-          },
-          {
-            "id": "0ce06bb4c2e096ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/№2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№2"
-            }
-          },
-          {
-            "id": "9f3de29cc079497b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Без названия.base",
-                "viewName": "Таблица"
-              },
-              "icon": "lucide-table",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "6397265e6457334a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/№1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№1"
-            }
-          },
-          {
-            "id": "15d7c31c261aad3e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Физика лекции/№4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№4"
-            }
-          },
-          {
-            "id": "9f599db1cfc93aee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/Тест по дифурам.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Тест по дифурам"
-            }
-          },
-          {
-            "id": "61653664e3e2fded",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/№3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№3"
-            }
-          },
-          {
-            "id": "344a4ef0c9347797",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/№3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№3"
-            }
-          },
-          {
-            "id": "9bf8284f7efd9ed7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/Подготовка к кр.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Подготовка к кр"
-            }
-          },
-          {
-            "id": "0e65cf71cbf7a18c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Мат анализ 2 сем/лекции/№2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№2"
-            }
-          },
-          {
-            "id": "3dbe096ff1b57bbe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем лекции/№4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№4"
-            }
-          },
-          {
-            "id": "f3c4f6de32c31231",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Алгем практика/№4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "№4"
-            }
-          },
-          {
-            "id": "566989b911f3fe82",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Физика лекции/№1 Проводники в электрическом поле.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "0522cd03a8641194",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Мат анализ 2 сем/лекции/№1 Числовые ряды.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "title": "черновие"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -376,41 +182,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c0dde1ccfe2a074",
+  "active": "4b6e3fcd2f242fed",
   "lastOpenFiles": [
-    "Алгем лекции/№4.md",
-    "Алгем практика/№4.md",
     "черновие.md",
-    "Мат анализ 2 сем/лекции/№2.md",
-    "Алгем практика/Подготовка к кр.md",
-    "Алгем практика/подготовка № 2.md",
-    "Алгем практика/Тест по дифурам.md",
-    "Алгем практика/№1.md",
+    "Снимок экрана — 2026-07-31 в 10.26.36.png",
+    "Снимок экрана — 2026-07-31 в 10.19.36.png",
+    "README.md",
+    "123.md",
+    "Без названия.base",
+    "Мат анализ 2 сем/лекции/№1 Числовые ряды.md",
+    "Физика лекции/№1 Проводники в электрическом поле.md",
+    "Физика лекции/№4.md",
+    "Физика лекции/№3 Закон Био-Савара-Лапласа.md",
+    "Физика лекции/№2 Основные положения классической теории электропроводности металлов.md",
+    "Физика лекции/Подготовка к кр.md",
+    "Алгем лекции/№1.md",
     "Алгем практика/№3.md",
+    "Алгем практика/№2.md",
+    "Алгем практика/№4.md",
+    "Алгем практика/подготовка № 2.md",
+    "картинки/Pasted Image 20260516161008_906.png",
+    "картинки/IMG_0411.jpeg",
     "картинки/IMG_0388.jpeg",
     "картинки/IMG_0408.jpeg",
-    "картинки/IMG_0411.jpeg",
-    "картинки/Pasted Image 20260516161008_906.png",
-    "Алгем практика/№2.md",
+    "Мат анализ 2 сем/лекции/№2.md",
+    "Алгем лекции/№4.md",
+    "Алгем практика/Подготовка к кр.md",
+    "Алгем практика/Тест по дифурам.md",
+    "Алгем практика/№1.md",
     "Мат анализ 2 сем/практика/№4.md",
     "Мат анализ 2 сем/практика/№2.md",
-    "Физика лекции/№4.md",
-    "123.md",
     "Алгем лекции/№3.md",
     "Мат анализ 2 сем/практика/№3.md",
     "Мат анализ 2 сем/практика/№1.md",
-    "Физика лекции/№2 Основные положения классической теории электропроводности металлов.md",
-    "Физика лекции/№3 Закон Био-Савара-Лапласа.md",
-    "Физика лекции/№1 Проводники в электрическом поле.md",
     "Алгем лекции/№2.md",
-    "Алгем лекции/№1.md",
-    "Мат анализ 2 сем/лекции/№1 Числовые ряды.md",
-    "Без названия.base",
-    "README.md",
     "картинки",
-    "Excalidraw/Drawing 2026-05-08 12.05.38.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2026-05-08 12.05.21.excalidraw.md",
     "sync_notes.sh",
     "Без названия 1.base",
     "ABAE496D-D42B-4CFB-A0A8-50FF5746B5D2_1_105_c.jpeg",
