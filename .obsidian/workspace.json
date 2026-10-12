@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "черновие.md"
+                "file": "course2/Физика/Практика 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "черновие"
+              "title": "Практика 2"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -179,15 +181,18 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
   "active": "4b6e3fcd2f242fed",
   "lastOpenFiles": [
-    "черновие.md",
-    "Снимок экрана — 2026-07-31 в 10.26.36.png",
-    "Снимок экрана — 2026-07-31 в 10.19.36.png",
+    "course2/Физика/Лекция 4.md",
     "README.md",
+    "черновие.md",
+    "Снимок экрана — 2026-07-31 в 10.19.36.png",
+    "Снимок экрана — 2026-07-31 в 10.26.36.png",
+    "course2/Теорвер/Лекция 1.md",
+    "course2/Теорвер/Лекция 2.md",
     "123.md",
     "Без названия.base",
     "Мат анализ 2 сем/лекции/№1 Числовые ряды.md",
@@ -214,8 +219,6 @@
     "Мат анализ 2 сем/практика/№2.md",
     "Алгем лекции/№3.md",
     "Мат анализ 2 сем/практика/№3.md",
-    "Мат анализ 2 сем/практика/№1.md",
-    "Алгем лекции/№2.md",
     "картинки",
     "Excalidraw",
     "sync_notes.sh",
